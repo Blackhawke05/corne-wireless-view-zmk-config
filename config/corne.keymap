@@ -37,10 +37,10 @@
 
             display-name = "Lower";
             bindings = <
-&kp TAB     &kp F1        &kp F2        &kp F3        &kp F4        &kp F5          &kp SLASH     &kp N7  &kp N8  &kp N9  &kp MINUS   &kp BSPC
-&bt BT_CLR  &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4    &kp ASTERISK  &kp N4  &kp N5  &kp N6  &kp PLUS    &kp F11
-&kp LSHFT   &kp F6        &kp F7        &kp F8        &kp F9        &kp F10         &trans        &kp N1  &kp N2  &kp N3  &kp PERIOD  &kp F12
-                                        &kp LGUI      &trans        &kp SPACE       &kp RET       &trans  &kp N0
+&kp TAB     &kp F1        &kp F2        &kp F3        &kp F4        &kp F5          &kp SLASH     &kp N7      &kp N8  &kp N9  &kp MINUS   &kp BSPC
+&bt BT_CLR  &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4    &kp ASTERISK  &kp N4      &kp N5  &kp N6  &kp PLUS    &kp F11
+&kp LSHFT   &kp F6        &kp F7        &kp F8        &kp F9        &kp F10         &trans        &kp N1      &kp N2  &kp N3  &kp PERIOD  &kp F12
+                                        &kp LGUI      &trans        &trans          &kp SPACE     &kp RETURN  &kp N0
             >;
         };
 
